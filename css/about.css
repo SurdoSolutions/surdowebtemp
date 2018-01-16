@@ -1,0 +1,15 @@
+.card {
+    width: 18rem;
+    padding: 20px 0 0 0;
+}
+
+#about_cards{
+    padding: 2rem;
+}
+
+#about_cards .card{
+    float: left;
+    height: auto;
+    padding: 10px;
+    text-align: center;
+}
