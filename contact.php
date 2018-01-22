@@ -3,6 +3,15 @@
 	$msg = '';
 	$msgClass = '';
 
+    $currentHome;
+    $currentAbout;
+    $currentProjects;
+    $currentContact = "active";
+
+    $pageTitle = "Contact Us";
+
+    $cssFileName = "contact.css";
+
 	//check for submission
 	if(filter_has_var(INPUT_POST, 'submit')){
 		//Get form data
@@ -58,21 +67,7 @@
 		}
 	}
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Contact Us</title>
-	<link rel="stylesheet" type="text/css" href="https://bootswatch.com/3/cosmo/bootstrap.min.css">
-</head>
-<body>
-	<nav class="navbar navbar-default">
-		<div class="container">
-			<div class="navbar-header">
-				<a class="navbar-brand" href="index.php">Contact Us</a>
-			</div>
-		</div>
-	</nav>
+    <?php include('inc/header.php'); ?>
 	<div class="container">
 		<?php if($msg != ''): ?>
 			<div class="alert alert-dismissible <?php echo $msgClass; ?>">
@@ -83,19 +78,18 @@
 		<form method="POST" action="<?php echo $_SERVER['PHP_SELF']; ?>">
 			<div class="form-group">
 				<label>Name</label>
-				<input type="text" name="name" class="form-control" value="<?php echo isset($_POST['name'])? $name : ''; ?>">
+				<input type="text" name="name" class="form-control" value="<?php echo isset($_POST['name'])? $name : ''; ?>" placeholder="Name">
 			</div>
 			<div class="form-group">
 				<label>Email</label>
-				<input type="text" name="email" class="form-control" value="<?php echo isset($_POST['email'])? $email : ''; ?>">
+				<input type="text" name="email" class="form-control" value="<?php echo isset($_POST['email'])? $email : ''; ?>" placeholder="Email">
 			</div>
 			<div class="form-group">
 				<label>Message</label>
-				<textarea name="message" class="form-control" value="Enter message here."><?php echo  isset($_POST['message'])? $message : ''; ?></textarea>
+				<textarea name="message" class="form-control" value="Enter message here." placeholder="Message"><?php echo  isset($_POST['message'])? $message : ''; ?></textarea>
 			</div>
 			<br>
 			<button type="submit" name="submit" class="btn btn-primary">Submit</button>
 		</form>
 	</div>
-</body>
-</html>
+<?php include('inc/footer.php'); ?>

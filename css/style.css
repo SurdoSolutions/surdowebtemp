@@ -29,6 +29,13 @@ ul{
     color: #ffffff;
 }
 
+.crimson{
+    padding: 15px;
+    background: crimson;
+    margin: 10px 0px 10px 0px;
+    color: black;
+}
+
 /* Header */
 header{
   color: #ffffff;
@@ -101,8 +108,8 @@ header .highlight, header .current a{
     text-align: center;
     color: white;
     text-shadow: 4px 8px 16px rgba(0,0,0,0.4),
-                 4px 8px 16px rgba(0,0,0,4),
-                 4px 8px 16px rgba(0,0,0,4);
+                 4px 8px 16px rgba(0,0,0,0.4),
+                 4px 8px 16px rgba(0,0,0,0.4);
     opacity: .6;
     margin-bottom: 0;
     border: none;
@@ -114,6 +121,7 @@ header .highlight, header .current a{
     font-size: 55px;
     font-style: oblique;
     font-weight: bold;
+    text-shadow: 4px 8px 16px rgba(0,0,0,0.4);;
     
 }
 
@@ -132,11 +140,13 @@ header .highlight, header .current a{
 
 #newsletter h1{
     float: left;
+    font-size: 34px;
+    margin: 0;
 }
 
 #newsletter form{
     float: right;
-    margin-top: 15px;
+    margin-top: 6px;
 }
 
 #newsletter input[type="email"]{
@@ -163,10 +173,92 @@ header .highlight, header .current a{
   height: 100px;
 }
 
+/*Sidebar*/
+aside#sidebar{
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+}
+
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+    width: 90%;
+    padding: 5px;
+}
+
+/*Main column*/
+
+article#main-col{
+    float: left;
+    width:65%;
+}
+
+/*Services*/
+
+#projects-header{
+    padding: 10px 0px 0px 0px;
+}
+
+ul#services{
+    padding: 0px;
+}
+
+ul#services li{
+    list-style: none;
+    padding: 20px;
+    border: #cccccc solid 1px;
+    margin-bottom: 5px;
+/*    background: ;*/
+}
+
+/*footer*/
+
 footer{
     padding: 20px;
     margin: 20px 0 0 0;
     color: white;
     background: crimson;
     text-align: center;
+}
+
+/*Media Queries*/
+
+@media(max-width: 768px){
+    header #branding,
+    header nav, 
+    header nav li,
+    #newsletter h1,
+    #newsletter form,
+    #boxes .box,
+    article#main-col,
+    aside#sidebar,
+    .card{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    
+    header{
+        padding-bottom: 20px;
+    }
+    
+    #showcase h1{
+        margin-top: 40px;
+    }
+    
+    #newsletter button, .dark button{
+        display: block;
+        width: 100%;
+        margin-top: 5px;
+    }
+    
+    #newsletter form input[type="email"], .dark form input{
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    
+    .m-4{
+        margin-left: 0px !important;
+    }
+    
+    
 }
