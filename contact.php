@@ -82,7 +82,7 @@
 			</div>
 			<div class="form-group">
 				<label>Email</label>
-				<input type="text" name="email" class="form-control" value="<?php echo isset($_POST['email'])? $email : ''; ?>" placeholder="Email">
+				<input type="email" name="email" class="form-control" value="<?php echo isset($_POST['email'])? $email : ''; ?>" placeholder="Email">
 			</div>
 			<div class="form-group">
 				<label>Message</label>
