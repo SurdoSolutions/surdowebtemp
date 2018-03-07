@@ -1,6 +1,7 @@
 .card {
     width: 18rem;
     padding: 20px 0 0 0;
+    margin: auto;
 }
 
 #about_cards{
@@ -16,4 +17,10 @@
 
 .col{
     padding: 0px 0px 20px 0px;
+    text-align: center;
+}
+
+.row{
+    padding-left: 20px;
+    margin-left: 80px;
 }

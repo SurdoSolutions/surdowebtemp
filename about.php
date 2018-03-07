@@ -83,14 +83,14 @@
         <div class="container">
             <article id="main-col">
                 <h1 class="page-title">Our Story</h1>
-                <p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+                <p>We have a passion for quality software and web development. For us, software means far more than just a career. Computers and the code that runs through them are far more than interesting gimmicks or flashy gadgets. Software means learning more about how the world works, how we fit in it, how we can develop solutions and answers, and how we can do more to make our devices and services tools that work for us, not prisons of inefficiency or waste.
                 </p>
-                <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p>
             </article>
             <aside id="sidebar">
                 <div class="crimson">
                 <h3>What We Do</h3>
-                <p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."</p>
+                <p>We develop quality websites for a wide range of clients: businesses, non-profits, individuals looking to build up their digital holdings and seize control of their identity in a bewildering environment of cloud services and computing. Our websites are built from scratch and maintained with diligence, front to back.</p>
+                <p>We also work on our own software, in-house mobile apps, web apps, and desktop software. Stay tuned for news about our projects!</p>
                 </div>
             </aside>
         </div>
@@ -102,15 +102,15 @@
                     <img class="card-img-top" src="img/fqureshi.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Faraan Qureshi</h5>
-                        <p class="card-text">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."</p>
+                        <p class="card-text">Faraan loves pushing daisies, walking on the Jersey Shore (specifically the Jersey Shore, and under its lovely boardwalks). In his spare time he likes to code.</p>
                     </div>
                         <ul class="list-group list-group-flush">
-                            <li class="list-group-item">Cras justo odio</li>
-                            <li class="list-group-item">Dapibus ac facilisis in</li>
-                            <li class="list-group-item">Vestibulum at eros</li>
+                            <li class="list-group-item">Java: SE, EE</li>
+                            <li class="list-group-item">MEAN Stack Web Development</li>
+                            <li class="list-group-item">Spring & Struts</li>
                         </ul>
                     <div class="card-body">
-                        <a href="#" class="card-link" target="_blank">Card link</a>
+                        <a href="#" class="card-link" target="_blank">Website</a>
                         <a href="https://github.com/faqfaraan" class="card-link" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Github</a>
                     </div>
                 </div>
@@ -120,12 +120,12 @@
                     <img class="card-img-top" src="img/aruwaishan.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Abdulrahman Al-Ruwaishan</h5>
-                        <p class="card-text">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."</p>
+                        <p class="card-text">Abdulrahman is a person.</p>
                     </div>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Cras justo odio</li>
-                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                        <li class="list-group-item">Vestibulum at eros</li>
+                        <li class="list-group-item">Java SE</li>
+                        <li class="list-group-item">MEAN Stack Web Development</li>
+                        <li class="list-group-item">LAMP Stack Web Development</li>
                     </ul>
                     <div class="card-body">
                         <a href="http://ruwayshan.com" class="card-link" target="_blank">Website</a>
@@ -138,12 +138,12 @@
                     <img class="card-img-top" src="img/fbaig.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Faisal Baig</h5>
-                        <p class="card-text">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."</p>
+                        <p class="card-text">Faisal is a dashing Don Juan who drives jet skis on the deep blue sea and also develops delightful software.</p>
                     </div>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Cras justo odio</li>
-                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                        <li class="list-group-item">Vestibulum at eros</li>
+                        <li class="list-group-item">Java SE</li>
+                        <li class="list-group-item">MEAN Web Development</li>
+                        <li class="list-group-item">Python</li>
                     </ul>
                     <div class="card-body">
                         <a href="#" class="card-link" target="_blank">Website</a>

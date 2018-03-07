@@ -75,6 +75,14 @@ header #brandname{
 }
 */
 
+nav .container-fluid{
+    padding-left: 0;    
+}
+
+.navbar-brand{
+  padding: 0;
+}
+
 .navbar-brand img{
   width: auto;
   height: auto;
@@ -110,7 +118,6 @@ header .highlight, header .current a{
     text-shadow: 4px 8px 16px rgba(0,0,0,0.4),
                  4px 8px 16px rgba(0,0,0,0.4),
                  4px 8px 16px rgba(0,0,0,0.4);
-    opacity: .6;
     margin-bottom: 0;
     border: none;
 }
