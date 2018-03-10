@@ -5,13 +5,14 @@
 }
 
 #about_cards{
-    padding: 2rem;
+    /* padding: 2rem; */
 }
 
 #about_cards .card{
     float: left;
     height: auto;
     padding: 10px;
+    margin: 5px;
     text-align: center;
 }
 
@@ -21,6 +22,29 @@
 }
 
 .row{
-    padding-left: 20px;
-    margin-left: 80px;
+    /* padding-left: 20px;
+    margin-left: 80px; */
+    width: 65%;
+    margin: auto;
+    text-align: center;
+}
+
+#img-outlier{
+    max-height: 266px;
+}
+
+@media(max-width: 991px){
+    .row{
+        width: 95%;
+    }
+    article#main-col,
+    aside#sidebar{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    .col{
+        padding: 0;
+        margin: auto;
+    }
 }

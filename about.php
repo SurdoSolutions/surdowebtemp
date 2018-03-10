@@ -85,6 +85,8 @@
                 <h1 class="page-title">Our Story</h1>
                 <p>We have a passion for quality software and web development. For us, software means far more than just a career. Computers and the code that runs through them are far more than interesting gimmicks or flashy gadgets. Software means learning more about how the world works, how we fit in it, how we can develop solutions and answers, and how we can do more to make our devices and services tools that work for us, not prisons of inefficiency or waste.
                 </p>
+                <p>We have a passion for quality software and web development. For us, software means far more than just a career. Computers and the code that runs through them are far more than interesting gimmicks or flashy gadgets. 
+                </p>
             </article>
             <aside id="sidebar">
                 <div class="crimson">
@@ -117,7 +119,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                    <img class="card-img-top" src="img/aruwaishan.jpg" alt="Card image cap">
+                    <img class="card-img-top" src="img/aruwaishan.jpg" alt="Card image cap" id="img-outlier">
                     <div class="card-body">
                         <h5 class="card-title">Abdulrahman Al-Ruwaishan</h5>
                         <p class="card-text">Abdulrahman is a person.</p>

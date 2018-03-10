@@ -65,7 +65,8 @@
     <div class="jumbotron text-center">
         <h1 class="display-3">absurdly simple solutions.</h1>
         <h2>Professional and Hassle-Free Web Design</h2>
-        <p class="lead">Whether you want something programmed for you, or want to learn how to program it yourself--you've come to the right place.</p>
+        <p class="lead">Looking for web solutions? You've come to the right place.</p>
+				<!-- Whether you want to buy our services, or learn how to program yourself - you've come to the right place. -->
     </div>
     
     <section id="newsletter">
@@ -88,18 +89,27 @@
       <div class="container">
         <div class="box">
           <img src="./img/logohtml5.png" alt="">
+          <h3>HTML5</h3>
+        </div>
+        <div class="box">
+          <img src="./img/logocss3.png" alt="">
+          <h3>CSS3</h3>
+        </div>
+        <div class="box">
+          <img src="./img/android-logo.png" alt="">
+          <h3>Apps for Android&trade;</h3>
+        </div>
+				<div class="box">
+          <img src="./img/logohtml5.png" alt="">
           <h3>HTML5 Markup</h3>
-          <p>The backbone of the internet.</p>
         </div>
         <div class="box">
           <img src="./img/logocss3.png" alt="">
           <h3>CSS3 Style</h3>
-          <p>No website can look complete and professional without CSS to bring it to life.</p>
         </div>
         <div class="box">
           <img src="./img/android-logo.png" alt="">
-          <h3>App Development</h3>
-          <p>Beyond the personal computer and on the go.</p>
+          <h3>Desktop Apps in Java&trade;</h3>
         </div>
       </div>
     </section>
