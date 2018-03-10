@@ -87,7 +87,8 @@
 
     <section id="boxes">
       <div class="container">
-        <div class="box">
+        <h4>We work with:</h4>
+				<div class="box">
           <img src="./img/logohtml5.png" alt="">
           <h3>HTML5</h3>
         </div>
@@ -100,16 +101,16 @@
           <h3>Apps for Android&trade;</h3>
         </div>
 				<div class="box">
-          <img src="./img/logohtml5.png" alt="">
-          <h3>HTML5 Markup</h3>
+          <img src="./img/nodejs-new-pantone-black.png" alt="">
+          <h3>Node.js</h3>
         </div>
         <div class="box">
-          <img src="./img/logocss3.png" alt="">
-          <h3>CSS3 Style</h3>
+          <img src="./img/php-med-trans.png" alt="">
+          <h3>PHP</h3>
         </div>
         <div class="box">
-          <img src="./img/android-logo.png" alt="">
-          <h3>Desktop Apps in Java&trade;</h3>
+          <img src="./img/electronjslogo.png" alt="">
+          <h3>Electron.js</h3>
         </div>
       </div>
     </section>

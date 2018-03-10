@@ -89,7 +89,7 @@
 				<textarea name="message" class="form-control" value="Enter message here." placeholder="Message"><?php echo  isset($_POST['message'])? $message : ''; ?></textarea>
 			</div>
 			<br>
-			<button type="submit" name="submit" class="btn btn-primary">Submit</button>
+			<button id="submit-button" type="submit" name="submit" class="btn btn-primary">Submit</button>
 		</form>
 	</div>
 <?php include('inc/footer.php'); ?>

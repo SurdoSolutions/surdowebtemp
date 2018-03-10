@@ -6,12 +6,23 @@
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-              <div class="navbar-nav">
-                  <a class="nav-item nav-link <?php echo $currentHome; ?>" href="index.php">Home</a>
-                  <a class="nav-item nav-link <?php echo $currentAbout; ?>" href="about.php">About Us</a>
-                  <a class="nav-item nav-link <?php echo $currentProjects; ?>" href="projects.php">Projects</a>
-                  <a class="nav-item nav-link <?php echo $currentContact; ?>" href="contact.php">Contact Us</a>
-              </div>
+              <ul class="navbar-nav">
+                  <li><a class="nav-item nav-link <?php echo $currentHome; ?>" href="index.php">Home</a></li>
+                  <li><a class="nav-item nav-link <?php echo $currentAbout; ?>" href="about.php">About Us</a></li>
+                  <li class="nav-item dropdown <?php echo $currentServices; ?>">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Services
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <a class="dropdown-item <?php echo $currentServices; ?>" href="services.php">Services Overview</a>
+                      <div class="dropdown-divider"></div>
+                      <a class="dropdown-item" href="#">Web Design</a>
+                      <a class="dropdown-item" href="#">App Development</a>
+                    </div>
+                  </li>
+                  <li><a class="nav-item nav-link <?php echo $currentProjects; ?>" href="projects.php">Projects</a></li>
+                  <li><a class="nav-item nav-link <?php echo $currentContact; ?>" href="contact.php">Contact Us</a></li>
+              </ul>
             </div>
 <!--            </div>-->
         </div>
