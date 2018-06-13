@@ -1,3 +1,5 @@
+/* Style for index.php */
+
 body{
   /* font-family: Tahoma, Helvetica, sans-serif;
   font-size: 15px;
@@ -217,7 +219,11 @@ ul#services li{
     padding: 20px;
     border: #cccccc solid 1px;
     margin-bottom: 5px;
-/*    background: ;*/
+}
+
+#disclaimer{
+    padding-left: 30px;
+    padding-top: 15px;
 }
 
 /*footer*/

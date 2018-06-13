@@ -87,32 +87,33 @@
 
     <section id="boxes">
       <div class="container">
-        <h4>We work with:</h4>
+        <h4>We work with the following tools.</h4>
 				<div class="box">
-          <img src="./img/logohtml5.png" alt="">
+          <a href="https://www.w3.org/html/" target="_blank"><img src="./img/logohtml5.png" alt=""></a>
           <h3>HTML5</h3>
         </div>
         <div class="box">
-          <img src="./img/logocss3.png" alt="">
+          <a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/" target="_blank"><img src="./img/logocss3.png" alt=""></a>
           <h3>CSS3</h3>
         </div>
         <div class="box">
-          <img src="./img/android-logo.png" alt="">
-          <h3>Apps for Android&trade;</h3>
+          <a href="https://developer.android.com/index.html" target="_blank"><img src="./img/android-logo.png" alt=""></a>
+          <h3>Android&trade;</h3>
         </div>
 				<div class="box">
-          <img src="./img/nodejs-new-pantone-black.png" alt="">
+          <a href="https://nodejs.org/en/" target="_blank"><img src="./img/nodejs-new-pantone-black.png" alt=""></a>
           <h3>Node.js</h3>
         </div>
         <div class="box">
-          <img src="./img/php-med-trans.png" alt="">
+          <a href="http://www.php.net/" target="_blank"><img src="./img/php-med-trans.png" alt=""></a>
           <h3>PHP</h3>
         </div>
         <div class="box">
-          <img src="./img/electronjslogo.png" alt="">
+          <a href="https://electronjs.org/" target="_blank"><img src="./img/electronjslogo.png" alt=""></a>
           <h3>Electron.js</h3>
         </div>
       </div>
+			<div id="disclaimer"><p>Please note that Surdo Solutions is not in any way endorsed by or affiliated with any of the above organizations, brands, or companies. The logos are provided for illustration, and link to resources for reference.</p></div>
     </section>
 <?php include('inc/footer.php'); ?>
 

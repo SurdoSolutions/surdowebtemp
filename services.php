@@ -23,17 +23,19 @@
             <ul id="services">
                 <li>
                     <h3>Website Design and Setup A-Z</h3>
-                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                    <p>Pricing: $150-$300, depending on the complexity of the project.</p>
+                    <p>We will design and set up a beatiful website designed according to your specifications, then turn over the keys to you. Don't worry! By setting you up with the famed Wordpress management system, we will leave you completely able to maintain your website yourself--no matter your tech experience!</p>
+                    <p>Pricing: $150+, depending on the complexity of the project. Use the quote form to the right to tell us about your project, or <a href="contact.php">click here to contact us if you want to ask some questions before you get your quote.</a></p>
                 </li>
                 <li>
-                    <h3>Website Maintenance</h3>
-                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                    <p>Pricing: $100/month, depending on the complexity of the website.</p>
+                    <h3>Website Hosting Solutions</h3>
+                    <p>If you'd rather have someone doing the drudge work for you, just give us the word and we'll set you up with one of our website solutions packages. We'll do everything we do in Website Design and Setup A-Z, <strong>plus</strong> look after your website for you--backing it up, updating it with the latest in security and features, and adding whatever you'd like us to add.</p>
+                    <p>Pricing: As low as $8+/month, depending on the complexity of the website.</p>
                 </li>
                 <li>
                     <h3>App Design</h3>
-                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                    <h4>Coming Soon!</h4>
+                    <p>Have you ever bounced back and forth between apps, constantly disappointed by this or that shortcoming? Have you ever searched and searched for a feature that no one seems to have cared enough about to program?</p>
+                    <p>Well, search no more! Tell us about your dream app, and we'll make it for you.</p>
                     <p><a href="contact.php"><strong>Tell us</strong></a> about your project.</p>
                 </li>
             </ul>
