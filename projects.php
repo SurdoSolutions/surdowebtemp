@@ -26,7 +26,7 @@
             <div class="card-body">
                 <h5 class="card-title">Library Catalogue Application</h5>
                 <p class="card-text">This application will be allow the user to store information about their personal libraries, organize material, cross-reference various works, and record notes. With future updates, other forms of personal media will be a part of the application as well</p>
-                <a href="#" class="btn btn-primary">More information coming soon.</a>
+                <h5 class="h5">More information coming soon.</h5>
             </div>
         </div>
 
@@ -37,7 +37,7 @@
             <div class="card-body">
                 <h5 class="card-title">STEM API</h5>
                 <p class="card-text">We are creating an API that will hold information for various fields of science. This API will play a large role in our future STEM applications. </p>
-                <a href="#" class="btn btn-primary">More information coming soon.</a>
+                <h5 class="h5">More information coming soon.</h5>
             </div>
         </div>
 
@@ -48,7 +48,7 @@
             <div class="card-body">
                 <h5 class="card-title">Study Assistant</h5>
                 <p class="card-text">An app to help with studying through psychologically-proven methods, providing timed reminders, scheduling functionality, self-testing options, and more.</p>
-                <a href="#" class="btn btn-primary">More information coming soon.</a>
+                <h5 class="h5">More information coming soon.</h5>
             </div>
         </div>
         

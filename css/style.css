@@ -1,5 +1,9 @@
 /* Style for index.php */
 
+
+
+
+
 body{
   /* font-family: Tahoma, Helvetica, sans-serif;
   font-size: 15px;
@@ -7,6 +11,14 @@ body{
   font: 15px/1.5 Tahoma, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
+  height: 100%;
+}
+
+.content {
+  padding: 20px;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Global */
@@ -45,7 +57,6 @@ ul{
 header{
   color: #ffffff;
   min-height: 70px;
-    border-bottom: crimson 3px solid;
 }
 
 header a{
@@ -230,10 +241,11 @@ ul#services li{
 
 footer{
     padding: 20px;
-    /* margin: 20px 0 0 0; */
+    margin-top: auto;
     color: white;
     background: crimson;
     text-align: center;
+    min-height: 10vh
 }
 
 /*Media Queries*/

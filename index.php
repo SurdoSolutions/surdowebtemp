@@ -7,6 +7,7 @@
     $currentProjects;
     $currentContact;
     $pageTitle = "Absurd - but it works.";
+	$cssFileName = "index.css";
 
 	//check for submission
 	if(filter_has_var(INPUT_POST, 'submit')){
@@ -64,9 +65,7 @@
     <?php include('inc/header.php'); ?>
     <div class="jumbotron text-center">
         <h1 class="display-3">absurdly simple solutions.</h1>
-        <h2>Professional and Hassle-Free Web Design</h2>
-        <p class="lead">Looking for web solutions? You've come to the right place.</p>
-				<!-- Whether you want to buy our services, or learn how to program yourself - you've come to the right place. -->
+        <h2>Web Design, software development, and IT consulting.</h2>
     </div>
     
     <section id="newsletter">
@@ -113,7 +112,6 @@
           <h3>Electron.js</h3>
         </div>
       </div>
-			<div id="disclaimer"><p>Please note that Surdo Solutions is not in any way endorsed by or affiliated with any of the above organizations, brands, or companies. The logos are provided for illustration, and link to resources for reference.</p></div>
     </section>
 <?php include('inc/footer.php'); ?>
 

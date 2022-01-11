@@ -15,3 +15,6 @@
 <body>
     <header>
         <?php include('navbar.php'); ?>
+    </header>
+    <div class="content">
+
