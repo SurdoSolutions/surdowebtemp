@@ -1,4 +1,4 @@
-        </div>
+    </main>
         <footer>
             <p>SurdoSolutionsLtd Copyright &#169; 2018</p>
         </footer>

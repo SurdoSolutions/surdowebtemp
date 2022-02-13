@@ -86,8 +86,8 @@
 
     <section id="boxes">
       <div class="container">
-        <h4>We work with the following tools.</h4>
-				<div class="box">
+        <h4>A complete set of solutions:</h4>
+		<div class="box">
           <a href="https://www.w3.org/html/" target="_blank"><img src="./img/logohtml5.png" alt=""></a>
           <h3>HTML5</h3>
         </div>

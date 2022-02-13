@@ -1,9 +1,3 @@
-/* Style for index.php */
-
-
-
-
-
 body{
   /* font-family: Tahoma, Helvetica, sans-serif;
   font-size: 15px;
@@ -14,7 +8,7 @@ body{
   height: 100%;
 }
 
-.content {
+main {
   padding: 20px;
   min-height: 80vh;
   display: flex;
