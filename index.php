@@ -88,28 +88,16 @@
       <div class="container">
         <h4>A complete set of solutions:</h4>
 		<div class="box">
-          <a href="https://www.w3.org/html/" target="_blank"><img src="./img/logohtml5.png" alt=""></a>
-          <h3>HTML5</h3>
         </div>
         <div class="box">
-          <a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/" target="_blank"><img src="./img/logocss3.png" alt=""></a>
-          <h3>CSS3</h3>
         </div>
         <div class="box">
-          <a href="https://developer.android.com/index.html" target="_blank"><img src="./img/android-logo.png" alt=""></a>
-          <h3>Android&trade;</h3>
         </div>
 				<div class="box">
-          <a href="https://nodejs.org/en/" target="_blank"><img src="./img/nodejs-new-pantone-black.png" alt=""></a>
-          <h3>Node.js</h3>
         </div>
         <div class="box">
-          <a href="http://www.php.net/" target="_blank"><img src="./img/php-med-trans.png" alt=""></a>
-          <h3>PHP</h3>
         </div>
         <div class="box">
-          <a href="https://electronjs.org/" target="_blank"><img src="./img/electronjslogo.png" alt=""></a>
-          <h3>Electron.js</h3>
         </div>
       </div>
     </section>

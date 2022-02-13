@@ -50,7 +50,7 @@ ul{
 /* Header */
 header{
   color: #ffffff;
-  min-height: 70px;
+  min-height: 10vh;
 }
 
 header a{
@@ -239,7 +239,7 @@ footer{
     color: white;
     background: crimson;
     text-align: center;
-    min-height: 12.55vh;
+    min-height: 10vh;
     align-items: center;
     display: grid;
 }
