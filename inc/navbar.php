@@ -1,4 +1,4 @@
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-2">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-2 fixed-top">
         <div class="container-fluid">
 <!--            <div class="navbar-header">-->
             <a class="navbar-brand" href="index.php"><img src="./img/Surdo-Logo2-3.png" alt=""></a>

@@ -239,7 +239,9 @@ footer{
     color: white;
     background: crimson;
     text-align: center;
-    min-height: 10vh
+    min-height: 12.55vh;
+    align-items: center;
+    display: grid;
 }
 
 /*Media Queries*/
