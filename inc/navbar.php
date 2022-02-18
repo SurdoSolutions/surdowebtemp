@@ -1,7 +1,7 @@
     <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-2 fixed-top">
         <div class="container-fluid">
 <!--            <div class="navbar-header">-->
-            <a class="navbar-brand" href="index.php"><img src="./img/Surdo-Logo2-3.png" alt=""></a>
+            <a class="navbar-brand" href="index.php"><img src="./img/SurdoLogo2.0-720x720.png" alt=""></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
