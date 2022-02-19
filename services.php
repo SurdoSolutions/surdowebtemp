@@ -56,7 +56,7 @@
                         <label for="message">Details</label><br>
                         <textarea id="message" name="name" placeholder="Details"></textarea>
                     </div>
-                    <button type="submit" name="submit" class="button_1">Submit</button>
+                    <button type="submit" name="submit" class="btn btn-primary button_1">Submit</button>
                 </form>           
             </div>
         </aside>

@@ -74,7 +74,7 @@
     <h1>Subscribe to our newsletter for updates</h1>
     <form action="">
         <input type="email" placeholder="Email" required="true">
-        <button type="submit" class="button_1">Subscribe</button>
+        <button type="submit" class="btn btn-primary button_1">Subscribe</button>
     </form>
     </div>
 </section>
@@ -88,7 +88,7 @@
             </p>
         </article>
         <aside id="sidebar">
-            <div class="crimson">
+            <div class="firebrick">
             <h3>What We Do</h3>
             <p>We develop quality websites for a wide range of clients: businesses, non-profits, individuals looking to build up their digital holdings and seize control of their identity in a bewildering environment of cloud services and computing. Our websites are built from scratch and maintained with diligence, front to back.</p>
             <p>We also work on our own software, in-house mobile apps, web apps, and desktop software. Stay tuned for news about our projects!</p>

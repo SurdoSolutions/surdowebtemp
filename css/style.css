@@ -34,15 +34,15 @@ ul{
 
 .button_1{
     height: 38px;
-    background: crimson;
+    background: firebrick;
     border: none;
     padding: 0 20px 0 20px;
     color: #ffffff;
 }
 
-.crimson{
+.firebrick{
     padding: 15px;
-    background: crimson;
+    background: firebrick;
     margin: 10px 0px 10px 0px;
     color: black;
 }
@@ -118,7 +118,7 @@ nav .container-fluid{
 
 /*
 header .highlight, header .current a{
-  color: crimson;
+  color: firebrick;
   font-weight: bold;
 }
 */
@@ -160,6 +160,7 @@ header .highlight, header .current a{
 
 #newsletter{
     padding: 15px;
+    margin: 15px;
     color: #ffffff;
     background: #35424a;
 }
@@ -246,7 +247,7 @@ footer{
     padding: 20px;
     margin-top: auto;
     color: white;
-    background: crimson;
+    background: firebrick;
     text-align: center;
     min-height: 10vh;
     align-items: center;
