@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/font-awesome-4.7.0/css/font-awesome.css">
     <link rel="stylesheet" href="./css/<?php echo $cssFileName; ?>">
-    <title>SurdoSolutionsLtd | <?php echo $pageTitle; ?></title>
+    <title>Surdo Solutions | <?php echo $pageTitle; ?></title>
 </head>
 <body>
     <header>

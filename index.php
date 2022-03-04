@@ -6,7 +6,7 @@ $currentHome = "active";
 $currentAbout;
 $currentProjects;
 $currentContact;
-$pageTitle = "Absurd - but it works.";
+$pageTitle = "It works!";
 $cssFileName = "index.css";
 
 //check for submission
