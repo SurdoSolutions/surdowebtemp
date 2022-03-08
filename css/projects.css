@@ -5,3 +5,7 @@ body{
 .quote-field{
     margin: 5px 0px 5px 0px;
 }
+
+.service-item:hover{
+    background: firebrick;
+}

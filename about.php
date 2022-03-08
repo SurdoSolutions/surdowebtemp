@@ -103,7 +103,8 @@
                 <img class="card-img-top" src="img/fqureshi.jpg" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Faraan Qureshi</h5>
-                    <p class="card-text">Faraan loves pushing daisies, walking on the Jersey Shore (specifically the Jersey Shore, and under its lovely boardwalks). In his spare time he likes to code.</p>
+                    <p class="card-text">Faraan loves pushing daisies and walking on the Jersey Shore.
+                         In his spare time he likes to code.</p>
                 </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">Java: SE, EE</li>
@@ -111,7 +112,7 @@
                         <li class="list-group-item">Spring & Struts</li>
                     </ul>
                 <div class="card-body">
-                    <a href="#" class="card-link" target="_blank">Website</a>
+                    <a href="https://github.com/faqfaraan" class="card-link" target="_blank">Website</a>
                     <a href="https://github.com/faqfaraan" class="card-link" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Github</a>
                 </div>
             </div>
@@ -120,8 +121,8 @@
             <div class="card">
                 <img class="card-img-top" src="img/aruwaishan.jpg" alt="Card image cap" id="img-outlier">
                 <div class="card-body">
-                    <h5 class="card-title">Abdulrahman Al-Ruwaishan</h5>
-                    <p class="card-text">Abdulrahman is a person.</p>
+                    <h5 class="card-title">Abdulrahman Alruwaishan</h5>
+                    <p class="card-text">Abdulrahman is interested in web development, AI and machine learning, and cybersecurity.</p>
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">Java SE</li>
@@ -129,8 +130,8 @@
                     <li class="list-group-item">LAMP Stack Web Development</li>
                 </ul>
                 <div class="card-body">
-                    <a href="http://ruwayshan.com" class="card-link" target="_blank">Website</a>
-                    <a href="https://github.com/sanyemaa" class="card-link" target="_blank" ><i class="fa fa-github" aria-hidden="true"></i> Github</a>
+                    <a href="http://2bales.com" class="card-link" target="_blank">Website</a>
+                    <a href="https://github.com/a2ma" class="card-link" target="_blank" ><i class="fa fa-github" aria-hidden="true"></i> Github</a>
                 </div>
             </div>
         </div>
@@ -139,7 +140,7 @@
                 <img class="card-img-top" src="img/fbaig.jpg" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Faisal Baig</h5>
-                    <p class="card-text">Faisal is a dashing Don Juan who drives jet skis on the deep blue sea and also develops delightful software.</p>
+                    <p class="card-text">Faisal is a dashing driver of jet skis on deep blue waters and also develops delightful software.</p>
                 </div>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">Java SE</li>
@@ -147,7 +148,7 @@
                     <li class="list-group-item">Python</li>
                 </ul>
                 <div class="card-body">
-                    <a href="#" class="card-link" target="_blank">Website</a>
+                    <a href="https://github.com/faisalbaig786" class="card-link" target="_blank">Website</a>
                     <a href="https://github.com/faisalbaig786" class="card-link" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Github</a>
                 </div>
             </div>
