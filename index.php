@@ -6,7 +6,7 @@ $currentHome = "active";
 $currentAbout;
 $currentProjects;
 $currentContact;
-$pageTitle = "It works!";
+$pageTitle = "Simple Solutions";
 $cssFileName = "index.css";
 
 //check for submission
@@ -86,31 +86,25 @@ if (filter_has_var(INPUT_POST, 'submit')) {
 
 <section id="boxes">
 	<div class="container">
-		<h4>A complete set of solutions:</h4>
+		<h4>A complete set of solutions: create your website, control your online identity, secure your digital assets, and develop apps.</h4>
 		<div class="box">
 			<a href="https://www.w3.org/html/" target="_blank"><img src="./img/logohtml5.png" alt=""></a>
-			<h3>HTML5</h3>
 		</div>
 		<div class="box">
 			<a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/" target="_blank"><img src="./img/logocss3.png" alt=""></a>
-			<h3>CSS3</h3>
 		</div>
 		<div class="box">
 			<a href="http://www.php.net/" target="_blank"><img src="./img/php-med-trans.png" alt=""></a>
-			<h3>PHP</h3>
 		</div>
 		<div class="box">
 			<a href="https://developer.android.com/index.html" target="_blank"><img src="./img/android-logo.png" alt=""></a>
-			<h3>Android™</h3>
 		</div>
 		<div class="box">
 			<a href="https://nodejs.org/en/" target="_blank"><img src="./img/nodejs-new-pantone-black.png" alt=""></a>
-			<h3>Node.js</h3>
 		</div>
 
 		<div class="box">
 			<a href="https://electronjs.org/" target="_blank"><img src="./img/electronjslogo.png" alt=""></a>
-			<h3>Electron.js</h3>
 		</div>
 	</div>
 </section>

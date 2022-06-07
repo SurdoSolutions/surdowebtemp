@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/font-awesome-4.7.0/css/font-awesome.css">
     <link rel="stylesheet" href="./css/<?php echo $cssFileName; ?>">
-    <title>Surdo Solutions | <?php echo $pageTitle; ?></title>
+    <title>Surdo | <?php echo $pageTitle; ?></title>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-222413342-1">
     </script>
