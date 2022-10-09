@@ -64,8 +64,8 @@ if (filter_has_var(INPUT_POST, 'submit')) {
 
 <?php include('inc/header.php'); ?>
 <div class="jumbotron text-center">
-	<h1 class="display-3">absurdly simple solutions.</h1>
-	<h2>Web design, software development, and consulting.</h2>
+	<h1 class="display-3" id="jumbo-text">absurdly simple solutions.</h1>
+	<h2 id="jumbo-text">Web design, software development, and consulting.</h2>
 </div>
 
 <section id="newsletter">
@@ -86,7 +86,7 @@ if (filter_has_var(INPUT_POST, 'submit')) {
 
 <section id="boxes">
 	<div class="container">
-		<h4>A complete set of solutions: create your website, control your online identity, secure your digital assets, and develop apps.</h4>
+		<h4 class="text-center">A complete set of solutions: create your website, control your online identity, secure your digital assets, and develop apps.</h4>
 		<div class="box">
 			<a href="https://www.w3.org/html/" target="_blank"><img src="./img/logohtml5.png" alt=""></a>
 		</div>

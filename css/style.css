@@ -2,7 +2,8 @@ body {
   /* font-family: Tahoma, Helvetica, sans-serif;
   font-size: 15px;
   line-height: 1.5; */
-  font: 15px/1.5 Tahoma, Helvetica, sans-serif;
+  font: 15px/1.5 'Bellefair', Helvetica, serif;
+  color: white;
   padding: 0;
   margin: 0;
   height: 100%;
@@ -134,9 +135,6 @@ header .highlight, header .current a{
   background: url('../img/coding-924920_1920.jpg') no-repeat 0;
   text-align: center;
   color: white;
-  text-shadow: 4px 8px 16px rgba(0, 0, 0, 0.4),
-    4px 8px 16px rgba(0, 0, 0, 0.4),
-    4px 8px 16px rgba(0, 0, 0, 0.4);
   margin-bottom: 0;
   border: none;
 }
@@ -147,13 +145,16 @@ header .highlight, header .current a{
   font-size: 55px;
   font-style: oblique;
   font-weight: bold;
-  text-shadow: 4px 8px 16px rgba(0, 0, 0, 0.4);
-  ;
-
 }
 
 .jumbotron p {
   font-size: 20px;
+}
+
+#jumbo-text {
+  text-shadow: 4px 8px 16px rgba(0, 0, 0, 0.4),
+    4px 8px 16px rgba(0, 0, 0, 0.4),
+    4px 8px 16px rgba(0, 0, 0, 0.4);
 }
 
 
