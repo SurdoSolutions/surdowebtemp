@@ -25,6 +25,12 @@ main {
   margin-bottom: auto;
   overflow: hidden;
 }
+.icon-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
 
 /*
 ul{
@@ -188,18 +194,27 @@ header .highlight, header .current a{
 
 #boxes {
   margin: 20px 0 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 #boxes .box {
-  float: left;
+  /* float: left; */
   width: 15.833%;
-  height: auto;
+  /* height: auto; */
   padding: 20px;
-  text-align: center;
+  /* text-align: center; */
+  margin: 0;
 }
 
 #boxes .box img {
   height: 75px;
+}
+
+.fa {
+  font-size: 100px !important;
 }
 
 /*Sidebar*/
@@ -302,7 +317,12 @@ footer {
     margin-left: 0px !important;
   }
 
-
+  .icon-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
 }
 
 @media(max-width: 1200px) {

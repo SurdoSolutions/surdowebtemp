@@ -85,27 +85,21 @@ if (filter_has_var(INPUT_POST, 'submit')) {
 </section>
 
 <section id="boxes">
-	<div class="container">
-		<h4 class="text-center">A complete set of solutions: create your website, control your online identity, secure your digital assets, and develop apps.</h4>
+	<h4 class="text-center">A complete set of solutions: create your website, control your online identity, secure your digital assets, and develop apps.</h4>
+	<div class="icon-container">
 		<div class="box">
-			<a href="https://www.w3.org/html/" target="_blank"><img src="./img/logohtml5.png" alt=""></a>
+			<i class="fa fa-shield" aria-hidden="true"></i>
 		</div>
 		<div class="box">
-			<a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/" target="_blank"><img src="./img/logocss3.png" alt=""></a>
+			<i class="fa fa-desktop" aria-hidden="true"></i>
 		</div>
 		<div class="box">
-			<a href="http://www.php.net/" target="_blank"><img src="./img/php-med-trans.png" alt=""></a>
+			<i class="fa fa-globe" aria-hidden="true"></i>
 		</div>
 		<div class="box">
-			<a href="https://developer.android.com/index.html" target="_blank"><img src="./img/android-logo.png" alt=""></a>
-		</div>
-		<div class="box">
-			<a href="https://nodejs.org/en/" target="_blank"><img src="./img/nodejs-new-pantone-black.png" alt=""></a>
+			<i class="fa fa-key" aria-hidden="true"></i>
 		</div>
 
-		<div class="box">
-			<a href="https://electronjs.org/" target="_blank"><img src="./img/electronjslogo.png" alt=""></a>
-		</div>
 	</div>
 </section>
 <?php include('inc/footer.php'); ?>
